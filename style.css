@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+main {
+    margin: 0;
+    padding: 0;
+}
+
+#custom-nav {
+    box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px, rgba(255, 255, 255, 0.25) 0px 1px 0px inset;
+}
+
+#receitas-inicio {
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+#links-inicio {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-btn {
+    border-radius: 10px;
+    border: 2px solid #ab4bc6;
+    background-color: transparent;
+    color: black;
+    padding: 8px;
+}
+
+.btn-divisor {
+    flex: 1;
+    border: none;
+    border-top: 2px solid #ab4bc6;
+    opacity: 80%;
+    margin: 0 10px;
+}
+
+#receitas-receitas {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 7px;
+}
+
+#important-text-che {
+    background-color: #d6ffa4;
+}
+
+#important-text-las {
+    background-color: #ff8b4d;
+}
