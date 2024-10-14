@@ -53,3 +53,8 @@ main {
 #important-text-las {
     background-color: #ff8b4d;
 }
+
+#custom-form {
+    border: 2px solid #ab4bc6;
+    border-radius: 10px;
+}

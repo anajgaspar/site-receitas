@@ -38,6 +38,44 @@
                 </nav>
             </div>
         </section>
+        <section>
+            <div id="custom-form" class="container-md px-5 py-3 my-5">
+                <h5 class="my-4" style="color: #ab4bc6;">Peça uma Receita!</h5>
+                <form>
+                    <div class="row justify-content-start">
+                        <div class="col-md-3 mb-3">
+                            <label for="inputName" class="form-label">Seu Nome:</label>
+                            <input type="text" class="form-control" id="inputName">
+                        </div>
+                    </div>
+                    <div class="row justify-content-start">
+                        <div class="col-md-3 mb-3">
+                            <label for="inputEmail" class="form-label">Seu E-mail:</label>
+                            <input type="email" class="form-control" id="inputEmail" required>
+                        </div>
+                    </div>
+                    <div class="row justify-content-start">
+                        <div class="col-md-3 mb-3">
+                            <label for="inputReceita" class="form-label">Receita Desejada:</label>
+                            <input type="text" class="form-control" id="inputReceita" required>
+                        </div>
+                    </div>
+                    <div class="row justify-content-start">
+                        <div class="col-md-3 mb-3">
+                            <label for="inputObs">Observações:</label>
+                            <textarea class="form-control" id="inputObs" rows="3"></textarea>
+                        </div>
+                    </div>
+                    <button type="submit" class="custom-btn col-md-3 mb-5" style="width: 100px;">Enviar</button>
+                </form>
+            </div>
+        </section>
+        <section id="footer">
+            <div class="container-lg mt-5 fixed-bottom">
+                <hr>
+                <p class="text-center" style="font-size: 11px;">© 2024 Ana Gaspar - Todos os direitos reservados.</p>
+            </div>
+        </section>
     </main>
 </body>
 </html>
