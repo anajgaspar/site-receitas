@@ -6,6 +6,8 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Bootstrap</li>
+  <li>Python (Flask)</li>
+  <li>SQL</li>
 </ul>
 
 ----------------------------------------
@@ -13,15 +15,16 @@
 
 <h3>📍 Página Início</h3>
 
-![image](https://github.com/user-attachments/assets/f8dd53bb-2fe0-4f90-8c18-0fab8f80f9a2)
+![ínicio](https://github.com/user-attachments/assets/9225e027-9140-4cf1-a9ca-60c9265972ab)
 
 <h3>📍 Página Receitas</h3>
 
-![image](https://github.com/user-attachments/assets/9c4b95c5-8a5d-4ed9-a797-3cbd74436e65)
+![recipes](https://github.com/user-attachments/assets/76ad821a-f418-420c-b03c-b14f30a37cbd)
 
 <h3>📍 Página Pedido</h3>
 
-![image](https://github.com/user-attachments/assets/3cb22b87-c92d-4ae6-a96f-4a9f27d27662)
+![pedidos](https://github.com/user-attachments/assets/6e0ba009-d092-4c16-81d4-b8c24332cce5)
+
 
 
 
